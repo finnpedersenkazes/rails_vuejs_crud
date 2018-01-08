@@ -1,4 +1,7 @@
 # Rails 5.1 & Vue.js 2 CRUD
+Cloned from
+https://github.com/ecmelkytz/rails_vuejs_crud
+
 
 This repo implements CRUD operations using Webpack. Check out [live demo](https://evening-brook-15906.herokuapp.com).
 
