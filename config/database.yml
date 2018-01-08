@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  database: rails_vue_dev
+  timeout: 5000
+test:
+  adapter: postgresql
+  database: rails_vue_test
+  pool: 5
+  timeout: 5000
+
+production:
+  adapter: postgresql
+  database: rails_vue_pro
+  pool: 5
+  timeout: 5000
